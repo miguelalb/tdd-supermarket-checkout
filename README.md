@@ -1,5 +1,5 @@
 # tdd-supermarket-checkout
-TDD Supermarket Checkout kata
+TDD Supermarket Checkout code kata  
 Build a supermarket checkout class using Test-Driven Development coding approach.
 
 ### Objective
