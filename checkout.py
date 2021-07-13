@@ -6,3 +6,6 @@ class Checkout:
 
     def addItem(self, item:str):
         pass
+
+    def calculateTotal(self):
+        return 1
